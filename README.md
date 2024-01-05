@@ -50,4 +50,8 @@ The motors can be run using the GPIO pins of the RasPi board. A default Python l
 
 The exact steps will be updated soon. 
 
+***Moving the Motors with GPIO pins of Raspberry Pi 4***
+
+[![Watch the video](https://img.youtube.com/vi/su6b5Z8PEu4/0.jpg)](https://youtu.be/su6b5Z8PEu4)
+
 ### The motion planning algorithms are discussed separately.
