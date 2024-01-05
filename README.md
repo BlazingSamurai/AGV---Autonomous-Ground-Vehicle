@@ -26,8 +26,18 @@ The exact steps will be updated soon.
 ### Working with LiDAR
 
 There is a Python Library called PyLidar which helps us get the data from LiDAR.
+It is also possible to run the LiDAR using ROS.
 
 The exact steps will be updated soon.
+
+***LiDAR data with Python***
+[![Watch the video](https://img.youtube.com/vi/h8RIfQsm1oA/0.jpg)](https://youtu.be/h8RIfQsm1oA)
+
+***LiDAR data with ROS***
+[![Watch the video](https://img.youtube.com/vi/RCLkwQKz7lU/0.jpg)](https://youtu.be/RCLkwQKz7lU)
+
+***LiDAR data with Master-Slave communication ROS***
+[![Watch the video](https://img.youtube.com/vi/OdTOKA_aFwM/0.jpg)](https://youtu.be/OdTOKA_aFwM)
 
 ### Moving the Motors
 
