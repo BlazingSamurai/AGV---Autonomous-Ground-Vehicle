@@ -8,6 +8,10 @@ The artificial potential field algorithm is at its core, mimicking the potential
 
 From this assumption we can easily see that the ****R and G**** will have an ******Attractive Potential (Pa)****** thereby having an ******************************Attractive Force (Fa)******************************, and the ********R and O******** will have a ******Repulsive Potential (Pr)****** thereby having a **Repulsive Force (Fr)**. The resultant of **************Fa and Fr************** is calculated, and the **position** of ************************R************************ is **updated**. 
 
+***Simulation of Artificial Potential Field Algorithm in Matlab***
+
+[![Watch the video](https://img.youtube.com/vi/XGqrnpYg8Wk/0.jpg)](https://youtu.be/XGqrnpYg8Wk)
+
 The following is the mathematics of implementing this algorithm.
 
 ![Untitled](Motion%20Planning%20Algorithms/Untitled.png)
